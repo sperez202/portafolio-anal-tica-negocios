@@ -8,10 +8,10 @@ Este repositorio contiene:
 
 ## Presentación
 
-[presentacion.pdf](presentacion.pdf)
+[presentacion.pdf](precentacion_final_analitica.pdf)
 
 ## Notebook 1
-[Ver Notebook 1](notebook_1.ipynb)
+[Ver Notebook 1](K_MEANS_FINAL.ipynb)
 
 ## Notebook 2
-[Ver Notebook 2](notebook_2.ipynb)
+[Ver Notebook 2](Arbol_de_decision_entrega_final.ipynb)
